@@ -1,0 +1,5 @@
+SwBlock1;	b1_Param1 ;	b1_Param2 ;
+SwBlock2;	b2_Param1 ;	b2_Param2 ;	b2_Param3;
+SwBlock3;       b3_Param1 ;     b3_Param2 ;
+SwBlock4;	b4_Param1 ;
+SwBlock5;	b5_Param1 ;	b5_Param2 ;
